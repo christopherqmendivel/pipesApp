@@ -12,6 +12,7 @@ import localeEsHN from '@angular/common/locales/es-HN';
 import localeFrCA from '@angular/common/locales/fr-CA';
 
 import { registerLocaleData } from '@angular/common';
+import { OrderComponent } from './products/pages/order/order.component';
 
 registerLocaleData( localeEsHN );
 registerLocaleData( localeFrCA );
